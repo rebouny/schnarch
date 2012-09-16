@@ -11,3 +11,4 @@ Some features I'm currently thiking of are:
 
 * downloadable song texts from configurable url
 * scalable song text display
+* make compatible to api v4 so this runs on my galaxy i7500
