@@ -1,0 +1,13 @@
+[title]my song title[/title]
+[section]
+This is the first section.
+It also has a second line.
+[/section]
+[section]
+This is my second section.
+We don't have two lines...
+There are three ones.
+[/section]
+[comment]
+and now some commentary
+[/comment]

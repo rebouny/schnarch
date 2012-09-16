@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schnarch</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_show_song">Zeige an</string>
+    <string name="title_activity_list_songs">Was willst Du singen?</string>
+    <string name="activity_show_song">Sing. . .</string>
+    <string name="song_content"></string>
+
+</resources>
